@@ -34,7 +34,7 @@
     pnpm 
     nodejs
     uv 
-    nvim
+    neovim
     gcc 
     gnumake
     aria2
