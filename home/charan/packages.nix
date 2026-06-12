@@ -34,6 +34,6 @@
     pnpm 
     nodejs
     uv 
-    nvim
+    neovim
   ];
 }
