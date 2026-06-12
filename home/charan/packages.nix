@@ -16,8 +16,6 @@
     jq
     unzip
     zip
-    gcc
-    gnumake
     nh
     nix-output-monitor
     lazygit
@@ -30,5 +28,12 @@
     wl-clipboard
     kitty
     tmux
+    tree-sitter
+    rustup
+    go 
+    pnpm 
+    nodejs
+    uv 
+    nvim
   ];
 }

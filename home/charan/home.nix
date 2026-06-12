@@ -4,7 +4,6 @@
   imports = [
     ./packages.nix
     ./git.nix
-    ./nvim.nix
     ./zsh.nix
     ./fzf.nix
     ./zoxide.nix
