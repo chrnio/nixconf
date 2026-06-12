@@ -1,11 +1,12 @@
-{...}:
+{ ... }:
 
 {
-    programs.git = {
-        enable = true;
+  programs.git = {
+    enable = true;
 
-        userName = "Charan Vadapalli";
-        userEmail = "sree.saicharan.vadapalli@gmail.com";
-
+    settings.user = {
+      name = "Charan Vadapalli";
+      email = "sree.saicharan.vadapalli@gmail.com";
     };
+  };
 }
