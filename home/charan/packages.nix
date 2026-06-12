@@ -34,6 +34,10 @@
     pnpm 
     nodejs
     uv 
-    neovim
+    nvim
+    gcc 
+    gnumake
+    aria2
+    starship
   ];
 }
